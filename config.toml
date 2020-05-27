@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
+languageCode = "es-es"
 title = "APICV"
-
+publishdir = "docs"
 
 theme = "prologue"
 
@@ -51,7 +51,7 @@ theme = "prologue"
 [[params.portfolio2]]
   title = "Últimas noticias"
   alt = ""
-  tam=500p
+  tam=500
   source = "img/pic04.jpg"
   url = "#"
 
