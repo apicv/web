@@ -2538,7 +2538,7 @@
 
 			#main > section {
 				padding: 2em 0;
-				background-image: url("images/banner2.jpg");
+				
 			}
 
 			#main section.cover {
@@ -2548,6 +2548,7 @@
 
 				#main section.cover header {
 					padding: 0 1em;
+					background-image: url("images/banner2.jpg");
 				}
 
 		/* Footer */
