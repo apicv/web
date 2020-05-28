@@ -1551,7 +1551,7 @@
 /* Basic */
 
 	body {
-		background: #888;
+		background: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 19pt;
 		font-weight: 300;
@@ -2004,6 +2004,7 @@
 			-webkit-flex-grow: 1;
 			-ms-flex-grow: 1;
 			flex-grow: 1;
+			background: #888;
 		}
 
 		#header .bottom {
