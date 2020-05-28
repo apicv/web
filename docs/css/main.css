@@ -2538,11 +2538,12 @@
 
 			#main > section {
 				padding: 2em 0;
+				background-image: url("images/banner2.jpg");
 			}
 
 			#main section.cover {
 				padding: 4em 0em;
-				background-image: url("images/banner2.jpg");
+				
 			}
 
 				#main section.cover header {
