@@ -2183,8 +2183,8 @@
 			}
 
 			#main > section.one {
-				background-color: #81918E;
-				background-image: url("../img/banner.jpg");
+				background-color: #888;
+				/*background-image: url("../img/banner.jpg");*/
 			}
 
 			#main > section.two {
