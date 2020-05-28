@@ -2184,7 +2184,7 @@
 
 			#main > section.one {
 				background-color: #888;
-				/*background-image: url("../img/banner.jpg");*/
+				background-image: url("img/banner.jpg");
 			}
 
 			#main > section.two {
