@@ -1962,7 +1962,7 @@
 
 		.icon:before {
 			display: inline-block;
-			font-family: FontAwesome;
+			font-family: Asap; /*FontAwesome;*/
 			font-size: 1.25em;
 			text-decoration: none;
 			font-style: normal;
@@ -2433,7 +2433,7 @@
 				}
 
 					#headerToggle .toggle:before {
-						font-family: FontAwesome;
+						font-family: Asap; /*FontAwesome;*/
 						text-decoration: none;
 						font-style: normal;
 						font-weight: normal;
