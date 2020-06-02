@@ -13,7 +13,7 @@ theme = "prologue"
 [[params.social]]
   medium = "twitter"
   icon = "twitter"
-  link = "#APICV"
+  link = "https://twitter.com/apicv"
 
 [[params.social]]
   medium = "facebook"
@@ -23,17 +23,17 @@ theme = "prologue"
 [[params.social]]
   medium = "github"
   icon = "github"
-  link = "#"
+  link = "https://github.com/apicv"
 
 [[params.social]]
-  medium = "dribbble"
-  icon = "dribbble"
-  link = "#"
+  medium = "telegram"
+  icon = "telegram"
+  link = "https://t.me/apicv"
 
 [[params.social]]
   medium = "email"
   icon = "envelope"
-  link = "#"
+  link = "mailto:presidente@apicv.es"
 
 # Portfolio column one
 
